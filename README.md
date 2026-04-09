@@ -120,5 +120,3 @@ supply-chain-risk-predictor/
 - [ ] Calibrated probability scores via logistic regression
 
 ---
-
-*Built as part of a GenAI learning roadmap — Project 8/20.*
