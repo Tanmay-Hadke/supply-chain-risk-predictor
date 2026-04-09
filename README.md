@@ -77,7 +77,7 @@ Free accounts needed:
 streamlit run app.py
 \`\`\`
 
-Or open `notebooks/supply_chain_predictor.ipynb` in Google Colab.
+Or open `notebooks/Supply_chain_disruption_predictor.ipynb` in Google Colab.
 
 ---
 
