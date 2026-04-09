@@ -55,7 +55,7 @@ Real crises this would have flagged early:
 
 ### 1. Clone and install
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/supply-chain-risk-predictor.git
+git clone https://github.com/Tanmay-Hadke/supply-chain-risk-predictor.git
 cd supply-chain-risk-predictor
 pip install -r requirements.txt
 python -m spacy download en_core_web_trf
